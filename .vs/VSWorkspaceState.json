@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Estudiantes",
+    "\\MenuDeProfesores",
     "\\TrabajoFrancia",
     "\\TrabajoFrancia\\AdministradorCalificaciones - Copy",
     "\\TrabajoFrancia\\AdministradorCalificaciones - Copy\\AdministradorCalificaciones"
   ],
-  "SelectedNode": "\\TrabajoFrancia\\AdministradorCalificaciones - Copy\\AdministradorCalificaciones\\frmRegMateria.cs",
+  "SelectedNode": "\\MenuDeProfesores\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
