@@ -1,0 +1,110 @@
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarMateria.resources
+C:\Users\Demetrio\Desktop\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarMateria.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarMateria.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarCarrera.resources
+C:\Users\Demetrio\Desktop\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarProfesor.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarCarrera.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarMateria.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarProfesor.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Reynaldo Holguin\Desktop\Carpetas de programas\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarCarrera.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarMateria.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmAgregarProfesor.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmLogIn.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Carlos\Source\Repos\TrabajoFrancia\AdministradorCalificaciones - Copy\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
